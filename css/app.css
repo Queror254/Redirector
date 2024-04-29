@@ -17,7 +17,7 @@ body{
 
 @media (max-width: 749px) {
     .xsm_hidden {
-        display: none;
+        display: none !important;
     }
 
     .profile {
